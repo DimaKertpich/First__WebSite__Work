@@ -1,0 +1,15 @@
+{
+  "name": "first__website",
+  "version": "1.0.0",
+  "description": "site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima Voluychik",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "wowjs": "^1.1.3"
+  }
+}
